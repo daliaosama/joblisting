@@ -13,7 +13,7 @@ main {
   flex-grow: 1;
   
 }
-@media only  screen and (max-width:600px) and (min-width:375px) {
+@media only  screen and (max-width:600px) and (min-width:344px) {
   nav{
     background-position: right;
   }}
