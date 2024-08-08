@@ -96,7 +96,7 @@ ul li:first-child{
 p:hover{
     color: hsl(180, 29%, 50%);
 }
-@media only screen  and (max-width:376px){
+@media only screen  and (max-width:600px) and (min-width:375px){
     .jobitem{
         flex-direction: column;
         align-items: start;
